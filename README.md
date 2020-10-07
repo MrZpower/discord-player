@@ -10,6 +10,8 @@ Discord Player is a powerful [Node.js](https://nodejs.org) module that allows yo
 
 ## Installation
 
+[![Run on Repl.it](https://repl.it/badge/github/Androz2091/discord-player)](https://repl.it/github/Androz2091/discord-player)
+
 ```sh
 npm install --save discord-player
 ```
